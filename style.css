@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #1f1853 !important;
+}
+body {
+  background-color: blue;
+}
+
+.bot {
+  background-color: #1f1853;
+}
+@media (min-width: 768px) {
+  card-img-top {
+    height: 40vh;
+  }
+}
